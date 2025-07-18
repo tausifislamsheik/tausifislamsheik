@@ -63,9 +63,13 @@ I build interactive, responsive user interfaces and am currently diving into ful
 
 ---
 
-## 🔥 Streak & Views
+## 🔥 Streak
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tausifislamsheik&theme=radical&hide_border=true" />
-  <img src="https://komarev.com/ghpvc/?username=tausifislamsheik&color=brightgreen&style=flat" />
+</p>
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
