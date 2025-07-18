@@ -9,10 +9,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
       style="transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
-  <a href="tausifislamsheik1@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"
-      style="transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
-  </a>
   <a href="https://github.com/tausifislamsheik" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"
       style="transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
@@ -41,10 +37,11 @@
 
 ---
 
-## 👋 Hi, I’m **Tausif Islam Sheik**
+## 👋 Hello, I’m **Tausif Islam Sheik**
 
-I’m a **Frontend Developer** specializing in **JavaScript**, **React**, and **Tailwind CSS**.  
-I build interactive, responsive user interfaces and am currently diving into full-stack development.
+I'm from Bangladesh, currently in the Dhaka Time Zone🌎. I’m a **Frontend Developer** specializing in **JavaScript**, **React**, and **Tailwind CSS**💻. I build interactive, responsive user interfaces and am currently diving into full-stack development.
+
+![profile view count](https://komarev.com/ghpvc/?username=tausifislamsheik)
 
 ---
 
