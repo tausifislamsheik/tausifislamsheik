@@ -30,7 +30,7 @@
       style="transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
   <a href="https://hikmah.net/@tausifislamsheik" target="_blank">
-    <img src="https://img.shields.io/badge/Hikmah-0A66C2?style=for-the-badge&logo=bookstack&logoColor=white"
+    <img src="https://img.shields.io/badge/Hikmah-teal?style=for-the-badge&logo=bookstack&logoColor=white"
       style="transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
 </p>
@@ -62,8 +62,8 @@ I'm from Bangladesh, currently in the Dhaka Time Zone🌎. I’m a **Frontend De
 | Name | Description | Tech |
 |------|-------------|------|
 | 🎟️ [Ticket Booking](https://tausifislamsheik.github.io/Online-Tickets/) | Seat booking system with responsive UI | HTML, CSS, JS |
-| 🐾 [Pet Adoption]([https://your-pet-app-link.com](https://tausifislamsheik.github.io/Peddy/)) | Browse adoptable pets via API | JS, Tailwind |
-| 💰 [FlexiPay-App]([https://your-tictactoe-link.com](https://tausifislamsheik.github.io/FlexiPay-App/)) | JavaScript |
+| 🐾 [Pet Adoption](https://tausifislamsheik.github.io/Peddy/) | Browse adoptable pets via API | JS, Tailwind |
+| 🤝 [FlexiPay-App](https://tausifislamsheik.github.io/Donate-Bangladesh/) | A donation campaign web app | JavaScript, Tailwind
 
 ---
 
@@ -82,9 +82,6 @@ I'm from Bangladesh, currently in the Dhaka Time Zone🌎. I’m a **Frontend De
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tausifislamsheik&theme=radical&hide_border=true" />
 </p>
 
----
-
-![Snake animation](https://github.com/tausifislamsheik/output/github-contribution-grid-snake.svg)
 
 
 <p align="center">
