@@ -85,6 +85,10 @@ I build interactive, responsive user interfaces and am currently diving into ful
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tausifislamsheik&theme=radical&hide_border=true" />
 </p>
 
+---
+
+https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
