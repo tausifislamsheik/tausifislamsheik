@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
       style="transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
-  <a href="mailto:tausifislamsheik1@gmail.com" target="_blank">
+  <a href="tausifislamsheik1@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"
       style="transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
@@ -19,6 +19,22 @@
   </a>
   <a href="https://yourportfolio.dev" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-004080?style=for-the-badge&logo=googlechrome&logoColor=white"
+      style="transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
+  </a>
+  <a href="https://x.com/tausifislmsheik" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white"
+      style="transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
+  </a>
+  <a href="https://www.facebook.com/tausifislamsheik" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
+      style="transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
+  </a>
+  <a href="https://www.instagram.com/tausifislamsheik/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+      style="transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
+  </a>
+  <a href="https://hikmah.net/@tausifislamsheik" target="_blank">
+    <img src="https://img.shields.io/badge/Hikmah-0A66C2?style=for-the-badge&logo=bookstack&logoColor=white"
       style="transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
 </p>
