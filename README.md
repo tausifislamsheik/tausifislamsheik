@@ -39,9 +39,9 @@
 
 ## 👋 Hello, I’m **Tausif Islam Sheik**
 
-I'm from Bangladesh, currently in the Dhaka Time Zone🌎. I’m a **Frontend Developer** specializing in **JavaScript**, **React**, and **Tailwind CSS**💻. I build interactive, responsive user interfaces and am currently diving into full-stack development.
-
 ![profile view count](https://komarev.com/ghpvc/?username=tausifislamsheik)
+
+I'm from Bangladesh, currently in the Dhaka Time Zone🌎. I’m a **Frontend Developer** specializing in **JavaScript**, **React**, and **Tailwind CSS**💻. I build interactive, responsive user interfaces and am currently diving into full-stack development.
 
 ---
 
@@ -61,9 +61,9 @@ I'm from Bangladesh, currently in the Dhaka Time Zone🌎. I’m a **Frontend De
 
 | Name | Description | Tech |
 |------|-------------|------|
-| 🎟️ [Ticket Booking](https://tausifislamsheik.github.io/Online-Tickets/) | Seat booking system with responsive UI | HTML, CSS, JS |
-| 🐾 [Pet Adoption](https://tausifislamsheik.github.io/Peddy/) | Browse adoptable pets via API | JS, Tailwind |
-| 🤝 [FlexiPay-App](https://tausifislamsheik.github.io/Donate-Bangladesh/) | A donation campaign web app | JavaScript, Tailwind
+| 🎟️ [Ticket-Booking](https://tausifislamsheik.github.io/Online-Tickets/) | Seat booking system with responsive UI | JavaScript, Tailwind CSS |
+| 🐾 [Pet-Adoption](https://tausifislamsheik.github.io/Peddy/) | Browse adoptable pets via API | JavaScript, Tailwind CSS |
+| 🤝 [Donation-Bangladesh](https://tausifislamsheik.github.io/Donate-Bangladesh/) | A donation campaign web app | JavaScript, Tailwind CSS
 
 ---
 
