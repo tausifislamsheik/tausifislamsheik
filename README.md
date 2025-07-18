@@ -87,7 +87,7 @@ I build interactive, responsive user interfaces and am currently diving into ful
 
 ---
 
-https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
 
 <p align="center">
