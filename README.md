@@ -37,7 +37,7 @@
 
 ---
 
-## 👋 Hello, I’m # **Tausif Islam Sheik**
+# 👋 Hello, I’m  ***Tausif Islam Sheik***
 
 ![profile view count](https://komarev.com/ghpvc/?username=tausifislamsheik)
 
